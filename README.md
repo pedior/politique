@@ -22,14 +22,6 @@ Chez Pedior, nous proposons les services suivants :
 - **Rédaction de Contenu** : Création de contenu web attractif et pertinent pour votre site, blog, et réseaux sociaux.
 - **Correction et Révision** : Garantie d'un contenu impeccable sans fautes d'orthographe ni erreurs grammaticales.
 
-## Équipe
-
-Notre équipe est composée de professionnels passionnés par la rédaction et le marketing digital :
-
-- **Katakenon Didier** : Fondateur et entrepreneur passionné par l'univers du web.
-- **Bocovo Morvan** : Expert en rédaction web avec une licence en lettres modernes et 5 ans d'expérience.
-- **Franck ODJONON** : Rédacteur chevronné avec une formation en communication et expérience dans les grandes agences.
-- **YOHAN SOSSOU** : Journaliste de formation avec une expertise dans la création de contenu digital.
 
 ## Tarification
 
@@ -44,7 +36,7 @@ Exemple de tarification :
 
 Pour plus d'informations sur nos services ou pour discuter de vos projets de rédaction web, n'hésitez pas à nous contacter :
 
-- **Email** : contact@pedior.com
+- **Email** : pediorservice@gmai.com
 - **Téléphone** : +229 98677508
 - **Adresse** : Bohicon, Bénin
 
@@ -52,4 +44,4 @@ Nous sommes impatients de collaborer avec vous pour atteindre vos objectifs en m
 
 ---
 
-© 2024 Pedior. Visitez notre site web à [www.pedior.com](https://www.pedior.com)
+© 2024 Pedior.
